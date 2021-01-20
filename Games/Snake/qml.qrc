@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>board.js</file>
+        <file>engine.js</file>
+        <file>Snake.qml</file>
+    </qresource>
+</RCC>
