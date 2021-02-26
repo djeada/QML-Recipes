@@ -11,7 +11,7 @@ Project based tutorials in QML.
 <h1>Basics</h1>
 <h2>Custom Property</h2>
 
-<img src="https://github.com/djeada/QML-recipes/blob/master/resources/CustomProperty.png" width="250">
+<img src="https://github.com/djeada/QML-recipes/blob/master/resources/CustomProperty.png" width="400">
 
 <h2>Scalable Interface</h2>
 
