@@ -10,11 +10,16 @@ Project based tutorials in QML.
 
 <h1>Basics</h1>
 <h2>Custom Property</h2>
+![Custom Property](https://github.com/djeada/QML-recipes/blob/master/resources/CustomProperty.png)
+
 <h2>Scalable Interface</h2>
 
 <h1>Controls</h1>
 <h2>Button</h2>
-<h2>Scalable Interface</h2>
+![Button](https://github.com/djeada/QML-recipes/blob/master/resources/Button.png)
+
+<h2>Dialog</h2>
+![Custom Property](https://github.com/djeada/QML-recipes/blob/master/resources/Dialog.png)
 
 <h1>CppQmlInteractions</h1>
 <h2>Counter</h2>
