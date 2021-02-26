@@ -18,11 +18,11 @@ Project based tutorials in QML.
 <h1>Controls</h1>
 <h2>Button</h2>
 
-![Button](https://github.com/djeada/QML-recipes/blob/master/resources/Button.png =250x)
+<img src="https://github.com/djeada/QML-recipes/blob/master/resources/Button.png" width="400">
 
 <h2>Dialog</h2>
 
-![Custom Property](https://github.com/djeada/QML-recipes/blob/master/resources/Dialog.png =250x)
+<img src="https://github.com/djeada/QML-recipes/blob/master/resources/Dialog.png" width="400">
 
 <h1>CppQmlInteractions</h1>
 <h2>Counter</h2>
