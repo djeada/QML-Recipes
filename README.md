@@ -1,4 +1,4 @@
-# QML-recipes
+# QML-Recipes
 
 <a href="https://github.com/djeada/QML-recipes/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/djeada/QML-recipes"></a>
 <a href="https://github.com/djeada/QML-recipes/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/djeada/QML-recipes"></a>
@@ -6,7 +6,7 @@
 <a href=""><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
 </div>
 
-Project based tutorials in QML.
+QML project-based tutorials.
 
 <h1>Basics</h1>
 <h2>Custom Property</h2>
