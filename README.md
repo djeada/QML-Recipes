@@ -8,6 +8,10 @@
 
 QML project-based tutorials.
 
+## About the project
+
+The examples are not full-fledged applications, but rather skeletons from which you may build your own projects. 
+
 <h1>Basics</h1>
 <h2>Custom Property</h2>
 
